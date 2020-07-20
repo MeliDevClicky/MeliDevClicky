@@ -12,7 +12,7 @@ I am student, currently studying in Universidad del Valle, Colombia. I've been l
 **The only way to do great work is to love what you do** 
 
 ## What I know 
-- **Competitive Programming**
+- **Programming Languages**
 	- Java
 	- C++
 	- Racket
