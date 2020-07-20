@@ -1,4 +1,4 @@
-# Welcome to my github :computer:
+# Welcome to my github!
 ![](https://github.com/Meliwi/Meliwi/blob/master/Github.png)
 
 <p align="center">
