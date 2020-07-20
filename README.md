@@ -17,10 +17,10 @@ I am student, currently studying in Universidad del Valle, Colombia. I've been l
 	- C++
 	- Racket
 - **Frontend Development**
-	- HTML, CSS and Javascript :trophy:
-	- React with Redux :electron:
+	- HTML, CSS and Javascript
+	- React with Redux 
 
 ## What I want to do next: 
-- Backend Development :gem:
+- Backend Development 
 
 
