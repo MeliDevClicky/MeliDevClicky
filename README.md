@@ -11,14 +11,14 @@ I am student, currently studying in Universidad del Valle, Colombia. I've been l
 
 **The only way to do great work is to love what you do** 
 
-## What I know: 
--**Programming languages**
-    - C++
-    - Java
-    - Racket
--**Frontend Development**
-    - HTML, CSS, and Javascript 
-    - React with Redux :electron: 
+## What I know 
+- **Competitive Programming**
+	- Java
+	- C++
+	- Racket
+- **Frontend Development**
+	- HTML, CSS and Javascript :trophy:
+	- React with Redux :electron:
 
 ## What I want to do next: 
 - Backend Development :gem:
