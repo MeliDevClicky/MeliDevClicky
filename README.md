@@ -7,7 +7,7 @@
 <a href="https://github.com/Meliwi" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub"></a>
 </p>
 
-I have been learning a lot about technology and programming the last years, and I can say I love my career and what I do. 
+I have been learning a lot about technology and programming the last years, and I can say I love my career and what I do. Currently I am doing some courses about Frontend Development and I am going to start my own projects to keep practicing. 
 
 **The only way to do great work is to love what you do** 
 
