@@ -20,6 +20,7 @@ I have been learning a lot about technology and programming the last years, and 
 	- Racket
 - **Frontend Development**
 	- HTML, CSS and Javascript
+	- Bootstrap 4 
 	- React with Redux 
 
 ## What I want to do next: 
