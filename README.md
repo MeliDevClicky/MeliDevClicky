@@ -1,6 +1,7 @@
-<p align="center">
+
 # Welcome to my github!
-![](https://github.com/Meliwi/Meliwi/blob/master/ProyectoAnimadoGithub.png)
+![](https://github.com/Meliwi/Meliwi/blob/master/MeliwiGithub.png)
+
 
 <p align="center">
 <a href="mailto:melimusich@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Email"></a>
@@ -27,4 +28,3 @@ I have been learning a lot about technology and programming the last years, and 
 ## What I want to do next: 
 - Backend Development 
 
-</p>
