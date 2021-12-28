@@ -1,29 +1,20 @@
-# Welcome to my github!
-![](https://github.com/Meliwi/Meliwi/blob/master/MeliwiGithub.png)
+### Hi there 👋
 
+Welcome to my github, I'm Melissa, I'm a Computer Science Student and Frontend Web Developer specialized in techonologies such as Reactjs.
 
-<p align="center">
-<a href="mailto:melimusich@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Email"></a>
-<a href="https://www.linkedin.com/in/melissa-gonz%C3%A1lez-nebrijo-436910191/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://github.com/Meliwi" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub"></a>
-<a href="https://twitter.com/MelissaNebrijo" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white" alt="Twitter"></a>
-</p>
+- 🌱 Currently working on personal projects and Frontend Mentor web challenges with React Js, Javascript, HTML and CSS.
+- 🎆 Also, I'm starting to learn backend development with NodeJs
+- 🤖 I'm studying Machine learning and Deep learning
+- ⚡ I'm constantly learning new technologies and increasing my skills
 
-I have been learning a lot about technology and programming the last years, and I can say I love my career and what I do. Currently I am doing some courses about Frontend Development and I am going to start my own projects to keep practicing. 
+**The only way to do great work is to love what you do**
 
-**The only way to do great work is to love what you do** 
+<hr />
 
-## What I know 
-- **Programming Languages**
-	- Java
-	- C++
-	- Python
-	- Racket
-- **Frontend Development**
-	- HTML, CSS and Javascript
-	- Bootstrap 4 
-	- React with Redux 
+<h3> Skills and Tools </h3>
 
-## What I want to do next: 
-- Backend Development 
-
+![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![image](https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white)
