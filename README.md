@@ -7,12 +7,6 @@ Welcome to my github, I'm Melissa, I'm a Computer Science Student and Frontend W
 - 🤖 I'm studying Machine learning and Deep learning
 - ⚡ I'm constantly learning new technologies and increasing my skills
 
-### Connect with me
-
-[<img align="left" | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-
-<!-- [<img align="left" | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][gmail] -->
-
 _The only way to do great work is to love what you do_
 
 <hr />
@@ -37,7 +31,3 @@ _The only way to do great work is to love what you do_
 <hr />
 
 ![Melissa's github stats](https://github-readme-stats.vercel.app/api?username=meliwi&show_icons=true&count_private=true&theme=midnight-purple)
-
-[twitter]: https://twitter.com/MeliwiDev
-
-<!-- [gmail]: mailto:melissa.gonzalez@correounivalle.edu.co -->
