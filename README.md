@@ -1,13 +1,18 @@
 ### Hi there 👋
 
-Welcome to my github, I'm Melissa, I'm a Computer Science Student and Frontend Web Developer specialized in techonologies such as Reactjs.
+Welcome to my github, I'm Melissa, I'm a Computer Science Student and Frontend Web Developer specialized in technologies such as Reactjs.
 
 - 🌱 Currently working on personal projects and Frontend Mentor web challenges with React Js, Javascript, HTML and CSS.
 - 🎆 Also, I'm starting to learn backend development with NodeJs
 - 🤖 I'm studying Machine learning and Deep learning
 - ⚡ I'm constantly learning new technologies and increasing my skills
 
-**The only way to do great work is to love what you do**
+### Connect with me
+
+[<img align="left" | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][gmail]
+
+_The only way to do great work is to love what you do_
 
 <hr />
 
@@ -19,6 +24,7 @@ Welcome to my github, I'm Melissa, I'm a Computer Science Student and Frontend W
 ![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![image](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 ![image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![image](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -27,4 +33,9 @@ Welcome to my github, I'm Melissa, I'm a Computer Science Student and Frontend W
 ![image](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![image](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
+<hr />
+
 ![Melissa's github stats](https://github-readme-stats.vercel.app/api?username=meliwi&show_icons=true&count_private=true&theme=midnight-purple)
+
+[twitter]: https://twitter.com/MeliwiDev
+[gmail]: mailto:melissa.gonzalez@correounivalle.edu.co
