@@ -53,4 +53,4 @@ Let's dive into my world of coding and creativity! 🚀
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-![Melissa's github stats](https://github-readme-stats.vercel.app/api?username=meliwi&show_icons=true&count_private=true&theme=midnight-purple)
+![Melissa's github stats](https://github-readme-stats.vercel.app/api?username=meliDevClicky&show_icons=true&count_private=true&theme=midnight-purple)
